@@ -5,3 +5,9 @@ for (var i = 0; i <= 100; i++) {
         console.log(integers[i])
     }
 }
+
+for (var i = 0; i <= 100; i++) {
+    if (integers[i] < 60) {
+        console.log(integers[i])
+    }
+}
